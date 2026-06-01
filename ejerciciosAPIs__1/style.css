@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f8f2ff;
+    text-align: center;
+    padding-top: 40px;
+}
+
+h1{
+    color: blueviolet;
+}
+
+#btnPersonaje{
+    background-color: blueviolet;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#btnPersonaje:hover{
+    background-color: #7a2be2;
+}
+
+#nombrePersonaje{
+    margin-top: 20px;
+    color: #333;
+}
+
+#imagenPersonaje{
+    margin-top: 15px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+#estadoPersonaje{
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 15px;
+}
