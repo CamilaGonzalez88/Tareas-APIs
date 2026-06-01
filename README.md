@@ -1,11 +1,6 @@
-# Ejercicios JavaScript Básico
+ Ejercicio Consumo de APIs
 
-Este repositorio contiene ejercicios de:
+# Ejercicios de Consumo de APIs
 
-- Variables
-- Operadores
-- Comparaciones
-- Operadores lógicos
-
-## Autor
-Camila Gonzalez
+# Cada ejercicio tiene su subcarpeta
+git st
