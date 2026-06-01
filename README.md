@@ -3,4 +3,3 @@
 # Ejercicios de Consumo de APIs
 
 # Cada ejercicio tiene su subcarpeta
-git st
